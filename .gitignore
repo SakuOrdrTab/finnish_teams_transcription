@@ -3,3 +3,6 @@ result.txt
 *.wav
 *.mp*
 *.avi
+auth_tokens.py
+audio.rttm
+__pycache__
